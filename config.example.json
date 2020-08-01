@@ -1,5 +1,5 @@
 {
-    "discord_token":"",
-    "images_path":"",
-    "servers":[""]
+    "discord_token":"YoUrBoT.tOkEn",
+    "images_path":"/path/to/images/",
+    "gif_path":"/path/to/gifs/"
 }
