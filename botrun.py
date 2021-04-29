@@ -4,5 +4,5 @@ import subprocess
 import asyncio
 
 while(True):
-    subprocess.call('python3.6 discordbot.py', shell=True)
+    subprocess.call('python3.8 discordbot.py', shell=True)
     asyncio.sleep(10)
